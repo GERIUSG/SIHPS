@@ -43,7 +43,7 @@ Include a suggestion box for alumni to propose new projects or initiatives, fost
 
 ## Use Cases
 
-![WhatsApp Image 2024-12-01 at 13 09 23_5dae5769](https://github.com/user-attachments/assets/8967e8e3-cd87-414b-9e14-b0a85443910f)
+![WhatsApp Image 2024-12-01 at 13 09 23_5dae5769](https://github.com/user-attachments/assets/b008e1cf-c041-4c8f-86bf-f1f2c681a759)
 
 ## Technology Stack
 
